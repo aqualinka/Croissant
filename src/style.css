@@ -10,9 +10,10 @@ a{
 img {
     display: block;
     margin: 40px auto;
-    height: 250px;
+    max-width: 100%;
     border-radius: 6px;  
 }
 .contact{
     color: darkcyan !important;
+    margin: 0 !important;
 }
